@@ -1,1 +1,1 @@
-# beginner-high-level-language
+#compiler gcc
